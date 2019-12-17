@@ -1,0 +1,1 @@
+# Combining-Global-and-Local-Variation-for-Image-Quality-Assessment
